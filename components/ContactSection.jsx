@@ -91,7 +91,7 @@ const ContactSection = () => {
             Contact
           </h2>
           <h3 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Let's Work Together
+            Let&apos;s Work Together
           </h3>
           <div className="h-1 w-20 bg-gradient-to-r from-cyan-500 to-blue-600 mx-auto mb-6"></div>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
